@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Abdus Salam](https://github.com/Sajad-Lx)
+- 👋 Hi, I’m [Abdus Salam](https://portfolio-sajad-lx.vercel.app/)
 - 🌱 I’m currently learning ...
 - 📫 How to reach me Gmail - sajad.laskar1@gmail.com
 <!-- -    [Portfolio incomplete](https://sajad-lx.github.io/Sajad-Lx/)
