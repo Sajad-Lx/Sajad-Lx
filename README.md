@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Abdus Salam](https://portfolio-sajad-lx.vercel.app/)
-- 🌱 I’m currently learning ...
+- 🪴 I’m a full stack dev and also currently learning ...
 - 📫 How to reach me Gmail - sajad.laskar1@gmail.com
 <!-- -    [Portfolio incomplete](https://sajad-lx.github.io/Sajad-Lx/)
 -    [Portfolio 2 incomplete](https://sajad-lx.github.io/Sajad-Lx/index-temp.html) -->
